@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/mkdirlove/EmoDex"><img src="https://github.com/mkdirlove/EmoDex/blob/main/logo.png" alt="EmoDex"></a>
   <br>
-  An AI-based text / emotion analysis tool.
+  An AI-based text / emotion analysis tool. (Under Developmant)
   <br>
 </h1>
 
@@ -62,5 +62,4 @@ Love:  0.3433333333333334
 No Emotion:  0.06166666666666667
 Sadness:  0.035
 Surprise:  0.065
-┌
 ```
