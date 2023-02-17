@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/mkdirlove/EmoDex"><img src="https://github.com/mkdirlove/EmoDex/blob/main/logo.png" alt="EmoDex"></a>
   <br>
-  An AI-based text / emotion analysis tool. (Under Developmant)
+  An AI-based text / emotion analysis tool. (Under Development)
   <br>
 </h1>
 
